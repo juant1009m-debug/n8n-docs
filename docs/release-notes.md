@@ -1,4 +1,5 @@
----
+---release-notes.md
+
 title: Release notes
 description: Release notes detailing new features and bug fixes for n8n.
 tags:
